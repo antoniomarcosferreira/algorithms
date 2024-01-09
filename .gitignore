@@ -20,3 +20,6 @@ Cargo.lock
 .idea
 .vscode
 .code
+
+*/**.DS_Store
+.DS_Store
